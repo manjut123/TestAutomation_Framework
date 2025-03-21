@@ -1,0 +1,7 @@
+/target/
+/test-output/
+/screenshots/
+/logs/
+/report.html
+
+/testng2.xml
